@@ -5,7 +5,7 @@ J'ai 24 ans et je suis apprenti **développeur web**. Bienvenue sur ma page GitH
 ## 📝 À propos de moi :
 
 J'ai commencé à m'intéresser au **développement web** en intégrant l'école La Plateforme l'année dernière. J'ai depuis acquis de solides compétences en HTML, CSS, Python et JavaScript. J'aime m'intégrer dans une équipe et participer à des projets, même si je sais aussi travailler en autonomie.
-Je suis actuellement à la recherche d'une alternance pour la rentrée d'Octobre 2023.
+Je suis actuellement à la recherche d'une **alternance** pour la rentrée d'Octobre 2023.
 
 ## 👨‍💻 Les langages que je maîtrise : 
 
@@ -13,7 +13,7 @@ Je suis actuellement à la recherche d'une alternance pour la rentrée d'Octobre
 
 ## 🛠️ Les outils que je maîtrise : 
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,ableton,ps,figma,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,ableton,ps,pr,figma)](https://skillicons.dev)
 
 ## 🚀 Mes projets :
 
