@@ -24,12 +24,12 @@ Je suis actuellement à la recherche d'une alternance pour la rentrée d'Octobre
 
 ## 🔜 Projets en cours :
 
-* Boutique en ligne en HTML, CSS et JavaScript.
+* Boutique en ligne Fullstack.
 * Chatapp en React.
 
 ## 📫 Vous pouvez me contacter par :
 
-* [LikedIn](https://www.linkedin.com/in/r%C3%A9mi-vidal-michel-a4b3ba271/ "LinkedIn de Rémi Vidal-Michel")
+* [LinkedIn](https://www.linkedin.com/in/r%C3%A9mi-vidal-michel-a4b3ba271/ "LinkedIn de Rémi Vidal-Michel")
 * [Mail à remi.vidal-michel@laplateforme.io](mailto:remi.vidal-michel@laplateforme.io "Mail à Rémi Vidal-Michel")
 
 Merci de votre visite !
