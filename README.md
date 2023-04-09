@@ -20,8 +20,6 @@ Je suis actuellement à la recherche d'une alternance pour la rentrée d'Octobre
 * [Design d'une boutique en ligne sur Figma](https://github.com/remi-vidal-michel/Figma "Projet Figma")
 * [Jeu Pokémon en Python](https://github.com/remi-vidal-michel/pokemon "Projet Pokemon")
 
-![Design Figma](https://i.ibb.co/R4d9hsW/figma-compress.gif "Design Figma")
-
 ## 🔜 Projets en cours :
 
 * Boutique en ligne Fullstack.
