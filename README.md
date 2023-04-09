@@ -1,4 +1,4 @@
-# 🥷 Bonjour ! Je m'appelle Rémi Vidal-Michel 
+## 🥷 Bonjour ! Je m'appelle **Rémi Vidal-Michel** 
 
 J'ai 24 ans et je suis apprenti **développeur web**. Bienvenue sur ma page GitHub !
 
@@ -17,17 +17,19 @@ Je suis actuellement à la recherche d'une alternance pour la rentrée d'Octobre
 
 ## 🚀 Mes projets :
 
-* [Design d'une boutique en ligne sur Figma](../Figma "Projet Figma")
-* [Jeu Pokémon en Python](../pokemon "Projet Pokemon")
+* [Design d'une boutique en ligne sur Figma](https://github.com/remi-vidal-michel/Figma "Projet Figma")
+* [Jeu Pokémon en Python](https://github.com/remi-vidal-michel/pokemon "Projet Pokemon")
+
+![Design Figma](https://i.ibb.co/R4d9hsW/figma-compress.gif "Design Figma")
 
 ## 🔜 Projets en cours :
 
-Boutique en ligne en HTML, CSS et JavaScript.
-Chatapp en React.
+* Boutique en ligne en HTML, CSS et JavaScript.
+* Chatapp en React.
 
 ## 📫 Vous pouvez me contacter par :
 
 * [LikedIn](https://www.linkedin.com/in/r%C3%A9mi-vidal-michel-a4b3ba271/ "LinkedIn de Rémi Vidal-Michel")
-* [Mail](mailto:remi.vidal-michel@laplateforme.io "Mail à Rémi Vidal-Michel")
+* [Mail à remi.vidal-michel@laplateforme.io](mailto:remi.vidal-michel@laplateforme.io "Mail à Rémi Vidal-Michel")
 
 Merci de votre visite !
