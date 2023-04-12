@@ -1,4 +1,4 @@
-## 🥷 Bonjour ! Je m'appelle **Rémi Vidal-Michel** 
+## 🥷 Développeur Web et Mobile, Recherche d'Alternance
 
 J'ai 24 ans et je suis apprenti **développeur web**. Bienvenue sur ma page GitHub !
 
