@@ -9,11 +9,11 @@ Je suis actuellement à la recherche d'une **alternance** pour la rentrée d'Oct
 
 ## 👨‍💻 Les langages que je maîtrise : 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,mysql,php)](https://skillicons.dev)
 
 ## 🛠️ Les outils que je maîtrise : 
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,ableton,ps,pr,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,ableton,ps,pr,figma,xd)](https://skillicons.dev)
 
 ## 🚀 Mes projets :
 
