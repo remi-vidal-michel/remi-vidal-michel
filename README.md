@@ -18,7 +18,7 @@ Je suis actuellement à la recherche d'une **alternance** pour la rentrée de Se
 ## 🚀 Mes projets :
 
 * [Design d'une boutique en ligne sur Figma](https://github.com/remi-vidal-michel/Figma "Projet Figma")
-* [Livre d'Or en PHP]([https://github.com/remi-vidal-michel/pokemon](https://github.com/remi-vidal-michel/livreor "Projet Livre d'Or")
+* [Livre d'Or en PHP](https://github.com/remi-vidal-michel/livreor "Projet Livre d'Or")
 
 ![figma-compress](https://user-images.githubusercontent.com/114652963/230784914-0b6a2808-58b4-4bf1-b175-7aa8420a369f.gif)
 
