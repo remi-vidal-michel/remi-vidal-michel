@@ -1,10 +1,6 @@
-## 🥷 Développeur Web et Mobile, Recherche d'Alternance
+## 📝 Développeur Web et Mobile, Recherche d'Alternance
 
-J'ai 24 ans et je suis apprenti **développeur web**. Bienvenue sur ma page GitHub !
-
-## 📝 À propos de moi :
-
-J'ai commencé à m'intéresser au **développement web** en intégrant l'école La Plateforme. J'ai depuis acquis de solides compétences en HTML, CSS, Python, PHP et JavaScript. J'aime m'intégrer dans une équipe et participer à des projets, mais je suis également autonome.
+Rémi VIDAL-MICHEL, 24 ans. J'ai commencé à m'intéresser au **développement web** en intégrant l'école La Plateforme. J'ai depuis acquis de solides compétences en HTML, CSS, Python, PHP et JavaScript. J'aime m'intégrer dans une équipe et participer à des projets, mais je suis également autonome.
 Je suis actuellement à la recherche d'une **alternance** pour la rentrée de Septembre/Octobre 2023.
 
 ## 👨‍💻 Les langages que je maîtrise : 
