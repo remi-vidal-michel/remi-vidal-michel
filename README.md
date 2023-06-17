@@ -14,10 +14,9 @@ Je suis actuellement à la recherche d'une **alternance** pour la rentrée de Se
 ## 🚀 Mes projets :
 
 * [Design d'une boutique en ligne sur Figma](https://github.com/remi-vidal-michel/Figma "Projet Figma")
-* [Typing Game en Python](hhttps://github.com/remi-vidal-michel/typinggame "Typing Game")
-* [Livre d'Or en PHP](https://github.com/remi-vidal-michel/livreor "Projet Livre d'Or")
+* [Typing Game en Python](https://github.com/remi-vidal-michel/typinggame "Typing Game")
 
-![figma-compress](https://user-images.githubusercontent.com/114652963/230784914-0b6a2808-58b4-4bf1-b175-7aa8420a369f.gif)
+![figma](https://github.com/remi-vidal-michel/remi-vidal-michel/assets/114652963/352d167e-5d19-47f6-be8b-2a9c44d7e1a5)
 ![typing-game](https://github.com/remi-vidal-michel/remi-vidal-michel/assets/114652963/ca39cc41-b7f8-4772-a9cc-140eabd55d9e)
 
 ## 🔜 Projet en cours :
